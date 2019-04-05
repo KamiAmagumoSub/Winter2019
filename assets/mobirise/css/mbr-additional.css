@@ -1648,3 +1648,196 @@ body {
 .cid-rmAedMAB4z .body-item {
   text-align: center;
 }
+.cid-rmDLP81M28 {
+  background: #82786e;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rmDLP81M28 .image-block {
+  margin: auto;
+}
+.cid-rmDLP81M28 figcaption {
+  position: relative;
+}
+.cid-rmDLP81M28 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rmDLP81M28 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rmDMoEUxms {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rmDMXRN3I2 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rmDMXRN3I2 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rmDMXRN3I2 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rmDMXRN3I2 .card-box {
+  padding-top: 2rem;
+}
+.cid-rmDMXRN3I2 .card-wrapper {
+  height: 100%;
+}
+.cid-rmDVGOUnc9 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rmDVGOUnc9 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rmDVGOUnc9 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rmDVGOUnc9 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rmDVGOUnc9 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rmDVGOUnc9 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rmDVGOUnc9 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rmDVGOUnc9 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rmDVGOUnc9 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rmDVGOUnc9 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rmAedMAB4z {
+  padding-top: 45px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rmAedMAB4z .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmAedMAB4z .container-table {
+  margin: 0 auto;
+}
+.cid-rmAedMAB4z .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rmAedMAB4z .dataTables_wrapper {
+  display: block;
+}
+.cid-rmAedMAB4z .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rmAedMAB4z .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rmAedMAB4z table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rmAedMAB4z table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rmAedMAB4z table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rmAedMAB4z table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rmAedMAB4z table.table {
+  background: #ffffff;
+}
+.cid-rmAedMAB4z .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rmAedMAB4z .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rmAedMAB4z .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rmAedMAB4z .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rmAedMAB4z .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rmAedMAB4z .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rmAedMAB4z .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rmAedMAB4z .head-item {
+  text-align: center;
+}
+.cid-rmAedMAB4z .body-item {
+  text-align: center;
+}
